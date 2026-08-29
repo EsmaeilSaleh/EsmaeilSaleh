@@ -20,8 +20,3 @@ Selected work
 Direction
 
 C → Linux → Networking → Security
-
-⸻
-
-Stack Overflow
-<a href="https://stackoverflow.com/users/17202156/e-saleh"><img src="https://stackoverflow.com/users/flair/17202156.png?theme=dark" width="208" height="58" alt="profile for e.saleh at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for e.saleh at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
